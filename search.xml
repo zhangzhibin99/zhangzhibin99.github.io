@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/03/20/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>半月报</title>
+    <url>/2019/11/30/%E5%8D%8A%E6%9C%88%E6%8A%A5/</url>
+    <content><![CDATA[<h1 id="第一篇半月报"><a href="#第一篇半月报" class="headerlink" title="第一篇半月报"></a>第一篇半月报</h1><a id="more"></a>
+
+
+
+<p>   半个月时间就这样很快结束了，回顾自我这半个月以来的工作，能说是很多的地方值得去回忆。作为一个前端实习，我能做的事情并不是很多，但也是有点压力的，小事情比较多，这些小事情在我不断的工作中去解决，自我的工作也得到了一点提高。社会就是这样，有很多锻炼人的地方，我相信我能够做好，可是这些都是我要不断的努力下去，我相信我会做的更好。在领导的关心支持和同事们的热情帮助下不断加强自身建设，努力提高自身修养，认真履行岗位职责，较好的完成了各项任务。总结起来就是主要五个方面：</p>
+<p>   一、严以律己，树立良好形象。严格遵守办公司的各种那个规章制度，事事处处以工作为内容，大局为重，遇到有紧急任务，加班加点，毫无怨言。领导下达了指令，会想方设法的去完成。听从领导安排、服从分配，对于领导的办公司安排的每一份工作，不论大小，都要高度重视，总是尽职尽责、认真的去完成，从不计较个人损失。严格约束自我的一言一行、一举一动，树立起了办公室工作人员的良好形象。</p>
+<p>   二、加强学习，不断提高能力。虚心向大佬学习，经常上w3c和慕课网学习，逐步完善自我。在工作中，事事处处以领导和优秀同时为榜样，不会就学不懂就问，取人之长，补己之短，始终坚持了谦虚谨慎勤奋好学的进取态度。</p>
+<p>   三、进去工作，完成各项任务。十一月，对于我们这个岗位来讲，有着巨大的冲击力，有太多的任务需要完成。按照领导的安排</p>
+]]></content>
+      <categories>
+        <category>半月报</category>
+      </categories>
+      <tags>
+        <tag>半月报</tag>
+      </tags>
+  </entry>
+</search>
